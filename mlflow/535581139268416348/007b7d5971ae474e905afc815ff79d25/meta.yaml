@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/535581139268416348/007b7d5971ae474e905afc815ff79d25/artifacts
+end_time: 1735926457204
+entry_point_name: ''
+experiment_id: '535581139268416348'
+lifecycle_stage: active
+run_id: 007b7d5971ae474e905afc815ff79d25
+run_name: classy-lynx-59
+run_uuid: 007b7d5971ae474e905afc815ff79d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735926450788
+status: 3
+tags: []
+user_id: root
