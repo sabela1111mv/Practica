@@ -1,0 +1,21 @@
+artifact_path: model_metadata
+flavors:
+  python_function:
+    artifacts:
+      joblib_model:
+        path: artifacts/model_metadata.joblib
+        uri: /content/Practica/modelos/model_metadata.joblib
+    cloudpickle_version: 3.1.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.12
+    streamable: false
+mlflow_version: 2.19.0
+model_size_bytes: 1501
+model_uuid: 9cbb91fec4d34290a4a2f298f7ad7a38
+run_id: 8a603e6543b74cb2ae27fc330a82e7a5
+utc_time_created: '2025-01-03 13:43:45.215943'

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/908818934987115952/8a603e6543b74cb2ae27fc330a82e7a5/artifacts
+end_time: 1735911829067
+entry_point_name: ''
+experiment_id: '908818934987115952'
+lifecycle_stage: active
+run_id: 8a603e6543b74cb2ae27fc330a82e7a5
+run_name: gentle-turtle-43
+run_uuid: 8a603e6543b74cb2ae27fc330a82e7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735911825208
+status: 3
+tags: []
+user_id: root
