@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/212794017303405237/fcb14a54bb0b4f8293d8d6410b80855d/artifacts
+end_time: 1735932316513
+entry_point_name: ''
+experiment_id: '212794017303405237'
+lifecycle_stage: active
+run_id: fcb14a54bb0b4f8293d8d6410b80855d
+run_name: nosy-sow-613
+run_uuid: fcb14a54bb0b4f8293d8d6410b80855d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735932311497
+status: 3
+tags: []
+user_id: root

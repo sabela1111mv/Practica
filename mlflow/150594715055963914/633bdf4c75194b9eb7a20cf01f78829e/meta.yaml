@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/150594715055963914/633bdf4c75194b9eb7a20cf01f78829e/artifacts
+end_time: 1735932487074
+entry_point_name: ''
+experiment_id: '150594715055963914'
+lifecycle_stage: active
+run_id: 633bdf4c75194b9eb7a20cf01f78829e
+run_name: vaunted-cat-129
+run_uuid: 633bdf4c75194b9eb7a20cf01f78829e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735932483097
+status: 3
+tags: []
+user_id: root
