@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/279798638289980499/d0bf72752d0e448c932f373cb2900ab8/artifacts
+end_time: 1735931007124
+entry_point_name: ''
+experiment_id: '279798638289980499'
+lifecycle_stage: active
+run_id: d0bf72752d0e448c932f373cb2900ab8
+run_name: bittersweet-cow-326
+run_uuid: d0bf72752d0e448c932f373cb2900ab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735930999143
+status: 3
+tags: []
+user_id: root
