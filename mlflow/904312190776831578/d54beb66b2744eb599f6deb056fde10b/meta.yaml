@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/904312190776831578/d54beb66b2744eb599f6deb056fde10b/artifacts
+end_time: 1742048767348
+entry_point_name: ''
+experiment_id: '904312190776831578'
+lifecycle_stage: active
+run_id: d54beb66b2744eb599f6deb056fde10b
+run_name: intrigued-hog-307
+run_uuid: d54beb66b2744eb599f6deb056fde10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742048763545
+status: 3
+tags: []
+user_id: root

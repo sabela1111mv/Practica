@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/b06a0c5aa85243288e7f181ebc2c573a/artifacts
+end_time: 1742048733510
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: b06a0c5aa85243288e7f181ebc2c573a
+run_name: silent-perch-150
+run_uuid: b06a0c5aa85243288e7f181ebc2c573a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742048725104
+status: 3
+tags: []
+user_id: root
