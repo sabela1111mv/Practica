@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/918537ab03964ee8bc654a4d8c0cac1c/artifacts
+end_time: 1742409178266
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 918537ab03964ee8bc654a4d8c0cac1c
+run_name: indecisive-lark-268
+run_uuid: 918537ab03964ee8bc654a4d8c0cac1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742409173453
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/190799395421575785/d10e43c862ed45aebe2c5d3754757722/artifacts
+end_time: 1742411688114
+entry_point_name: ''
+experiment_id: '190799395421575785'
+lifecycle_stage: active
+run_id: d10e43c862ed45aebe2c5d3754757722
+run_name: capable-goat-526
+run_uuid: d10e43c862ed45aebe2c5d3754757722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742411678180
+status: 3
+tags: []
+user_id: root

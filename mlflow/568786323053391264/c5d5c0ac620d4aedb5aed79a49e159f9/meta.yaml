@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/c5d5c0ac620d4aedb5aed79a49e159f9/artifacts
+end_time: 1742409416051
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: c5d5c0ac620d4aedb5aed79a49e159f9
+run_name: abrasive-donkey-794
+run_uuid: c5d5c0ac620d4aedb5aed79a49e159f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742409403681
+status: 3
+tags: []
+user_id: root
