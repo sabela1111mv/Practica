@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/962004844256892090/4f7f4008a5714555a20eb9874eb2d502/artifacts
+end_time: 1743347855109
+entry_point_name: ''
+experiment_id: '962004844256892090'
+lifecycle_stage: active
+run_id: 4f7f4008a5714555a20eb9874eb2d502
+run_name: resilient-shrimp-794
+run_uuid: 4f7f4008a5714555a20eb9874eb2d502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743347849798
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/557e2f0d648d4e6ab04fe21fd78d7e44/artifacts
+end_time: 1743343232285
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 557e2f0d648d4e6ab04fe21fd78d7e44
+run_name: wistful-bug-32
+run_uuid: 557e2f0d648d4e6ab04fe21fd78d7e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743343226901
+status: 3
+tags: []
+user_id: root
